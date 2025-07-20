@@ -1,4 +1,4 @@
-Características de este proyecto de aprendizaje con Spring:
+Características de este primer proyecto de aprendizaje con Spring:
 
   Creación de una API REST completamente funcional con Spring Boot y Spring Web.
 
