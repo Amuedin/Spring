@@ -1,19 +1,19 @@
-Características de este primer proyecto de aprendizaje con Spring:
+CARACTERISTICAS DE ESTE PRIMER PROYECTO REALIZADO EN SPRING A TRAVES DE BROADCOM SPRING ACADEMY:
 
-  Creación de una API REST completamente funcional con Spring Boot y Spring Web.
+  -Creación de una API REST completamente funcional con Spring Boot y Spring Web.
 
-  Utilización de Spring Security para autenticar y autorizar la aplicación.
+  -Utilización de Spring Security para autenticar y autorizar la aplicación.
 
-  Implementación de desarrollo guiado por pruebas (TDD).
+  -Implementación de desarrollo guiado por pruebas (TDD).
 
-  Conversión automática entre objetos de base de datos y objetos Java mediante Spring Data JDBC.
+  -Conversión automática entre objetos de base de datos y objetos Java mediante Spring Data JDBC.
 
-  Construcción de una API RESTful completa con Spring Boot, comprendiendo los beneficios y las desventajas de REST.
+  -Construcción de una API RESTful completa con Spring Boot, comprendiendo los beneficios y las desventajas de REST.
 
-  Conexión de bases de datos y mapeo de datos relacionales a objetos Java con Spring Data.
+  -Conexión de bases de datos y mapeo de datos relacionales a objetos Java con Spring Data.
 
-  Aplicación de un enfoque “Security First” en el desarrollo de software mediante Spring Security.
+  -Aplicación de un enfoque “Security First” en el desarrollo de software mediante Spring Security.
 
-  Uso de arquitectura en capas.
+  -Uso de arquitectura en capas.
 
-  Utilización de H2 como base de datos embebida en memoria mediante la autoconfiguración de Spring Boot.
+  -Utilización de H2 como base de datos embebida en memoria mediante la autoconfiguración de Spring Boot.
